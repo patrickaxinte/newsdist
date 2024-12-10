@@ -1,0 +1,1867 @@
+2024-12-02T13:46:54.319442600 [INFO] Server is starting...
+2024-12-02T13:46:54.339094 [INFO] HeartBeatManager started.
+2024-12-02T13:46:54.345545900 [INFO] Server is running...
+2024-12-02T13:46:54.362243 [INFO] SocketHandler is listening on port 5001
+2024-12-02T13:46:54.366564900 [ERROR] Failed to send heartbeat to node node2: Connection refused: no further information
+2024-12-02T13:46:54.367576200 [ERROR] Failed to send heartbeat to node node3: Connection refused: no further information
+2024-12-02T13:46:54.369049700 [ERROR] Node node2 is unresponsive. Last heartbeat at null
+2024-12-02T13:46:54.369634200 [INFO] Handling failure of node node2
+2024-12-02T13:46:54.370657600 [INFO] Removed neighbor node: node2
+2024-12-02T13:46:54.370657600 [ERROR] Node node3 is unresponsive. Last heartbeat at null
+2024-12-02T13:46:54.371169500 [INFO] Handling failure of node node3
+2024-12-02T13:46:54.371169500 [INFO] Removed neighbor node: node3
+2024-12-02T13:46:59.006555900 [INFO] New node connection from /127.0.0.1
+2024-12-02T13:47:00.651841300 [INFO] New node connection from /127.0.0.1
+2024-12-02T13:47:40.564974100 [INFO] Shutting down server...
+2024-12-02T13:47:40.564974100 [INFO] Server shutdown complete.
+2024-12-02T13:47:47.012201 [INFO] Server is starting...
+2024-12-02T13:47:47.033453700 [INFO] HeartBeatManager started.
+2024-12-02T13:47:47.037501700 [INFO] Server is running...
+2024-12-02T13:47:47.049856400 [INFO] SocketHandler is listening on port 5001
+2024-12-02T13:48:47.041076500 [INFO] Heartbeats Sent: 0
+2024-12-02T13:48:47.041076500 [INFO] Heartbeats Received: 0
+2024-12-02T13:48:47.041584900 [INFO] Nodes Failed: 0
+2024-12-02T13:49:32.818269 [INFO] Shutting down server...
+2024-12-02T13:49:32.818269 [INFO] Server shutdown complete.
+2024-12-02 13:57:30 [INFO] Server is starting...
+2024-12-02 13:57:30 [INFO] HeartBeatManager started.
+2024-12-02 13:57:30 [INFO] Server is running...
+2024-12-02 13:57:30 [INFO] SocketHandler is listening on port 5001
+2024-12-02 13:57:30 [ERROR] Failed to send heartbeat to node node2: Connection refused: no further information
+2024-12-02 13:58:30 [INFO] Heartbeats Sent: 0
+2024-12-02 13:58:30 [INFO] Heartbeats Received: 0
+2024-12-02 13:58:30 [INFO] Nodes Failed: 0
+2024-12-02 13:59:30 [INFO] Heartbeats Sent: 0
+2024-12-02 13:59:30 [INFO] Heartbeats Received: 0
+2024-12-02 13:59:30 [INFO] Nodes Failed: 0
+2024-12-02 14:00:13 [INFO] Shutting down server...
+2024-12-02 14:00:13 [INFO] Server shutdown complete.
+2024-12-02 14:00:13 [ERROR] Metrics thread interrupted.
+2024-12-02 14:00:15 [INFO] Server is starting...
+2024-12-02 14:00:15 [INFO] HeartBeatManager started.
+2024-12-02 14:00:15 [INFO] Server is running...
+2024-12-02 14:00:15 [INFO] SocketHandler is listening on port 5001
+2024-12-02 14:00:15 [ERROR] Failed to send heartbeat to node node2: Connection refused: no further information
+2024-12-02 14:01:15 [INFO] Heartbeats Sent: 0
+2024-12-02 14:01:15 [INFO] Heartbeats Received: 0
+2024-12-02 14:01:15 [INFO] Nodes Failed: 0
+2024-12-02 14:02:15 [INFO] Heartbeats Sent: 0
+2024-12-02 14:02:15 [INFO] Heartbeats Received: 0
+2024-12-02 14:02:15 [INFO] Nodes Failed: 0
+2024-12-02 14:03:15 [INFO] Heartbeats Sent: 0
+2024-12-02 14:03:15 [INFO] Heartbeats Received: 0
+2024-12-02 14:03:15 [INFO] Nodes Failed: 0
+2024-12-02 14:04:06 [INFO] Shutting down server...
+2024-12-02 14:04:06 [INFO] Server shutdown complete.
+2024-12-02 14:04:06 [ERROR] Metrics thread interrupted.
+2024-12-02 14:29:10 [INFO] Server is starting...
+2024-12-02 14:29:10 [INFO] HeartBeatManager started.
+2024-12-02 14:29:10 [INFO] Server is running...
+2024-12-02 14:29:10 [INFO] SocketHandler is listening on port 5001
+2024-12-02 14:29:10 [ERROR] Failed to send heartbeat to node node2: Connection refused: no further information
+2024-12-02 14:29:10 [ERROR] Failed to send heartbeat to node node3: Connection refused: no further information
+2024-12-02 14:29:10 [ERROR] Node node2 is unresponsive. Last heartbeat at null
+2024-12-02 14:29:10 [INFO] Handling failure of node node2
+2024-12-02 14:29:10 [INFO] Removed neighbor node: node2
+2024-12-02 14:29:10 [ERROR] Node node3 is unresponsive. Last heartbeat at null
+2024-12-02 14:29:10 [INFO] Handling failure of node node3
+2024-12-02 14:29:10 [INFO] Removed neighbor node: node3
+2024-12-02 14:29:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 14:29:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 14:29:37 [INFO] Received heartbeat from node node2. Total received: 1
+2024-12-02 14:29:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 14:29:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 14:29:48 [INFO] Received heartbeat from node node3. Total received: 2
+2024-12-02 14:30:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:30:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:30:10 [INFO] Nodes Failed: 2
+2024-12-02 14:31:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:31:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:31:10 [INFO] Nodes Failed: 2
+2024-12-02 14:32:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:32:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:32:10 [INFO] Nodes Failed: 2
+2024-12-02 14:33:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:33:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:33:10 [INFO] Nodes Failed: 2
+2024-12-02 14:34:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:34:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:34:10 [INFO] Nodes Failed: 2
+2024-12-02 14:35:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:35:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:35:10 [INFO] Nodes Failed: 2
+2024-12-02 14:36:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:36:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:36:10 [INFO] Nodes Failed: 2
+2024-12-02 14:37:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:37:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:37:10 [INFO] Nodes Failed: 2
+2024-12-02 14:38:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:38:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:38:10 [INFO] Nodes Failed: 2
+2024-12-02 14:39:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:39:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:39:10 [INFO] Nodes Failed: 2
+2024-12-02 14:40:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:40:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:40:10 [INFO] Nodes Failed: 2
+2024-12-02 14:41:10 [INFO] Heartbeats Sent: 0
+2024-12-02 14:41:10 [INFO] Heartbeats Received: 2
+2024-12-02 14:41:10 [INFO] Nodes Failed: 2
+2024-12-02 15:05:04 [INFO] Server is starting...
+2024-12-02 15:05:04 [INFO] HeartBeatManager started.
+2024-12-02 15:05:04 [INFO] Server is running...
+2024-12-02 15:05:04 [INFO] SocketHandler is listening on port 5001
+2024-12-02 15:05:04 [ERROR] Failed to send heartbeat to node node2 (Attempt 1/3): Connection refused: no further information
+2024-12-02 15:05:04 [ERROR] Failed to send heartbeat to node node3 (Attempt 1/3): Connection refused: no further information
+2024-12-02 15:05:09 [ERROR] Failed to send heartbeat to node node2 (Attempt 2/3): Connection refused: no further information
+2024-12-02 15:05:09 [ERROR] Failed to send heartbeat to node node3 (Attempt 2/3): Connection refused: no further information
+2024-12-02 15:05:10 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:10 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:10 [INFO] Received heartbeat from node node2. Total received: 1
+2024-12-02 15:05:14 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:14 [ERROR] Failed to send heartbeat to node node3 (Attempt 3/3): Connection refused: no further information
+2024-12-02 15:05:14 [ERROR] Node node3 is unresponsive after 3 attempts.
+2024-12-02 15:05:14 [INFO] Handling failure of node node3
+2024-12-02 15:05:15 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:15 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:15 [INFO] Received heartbeat from node node2. Total received: 2
+2024-12-02 15:05:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:17 [INFO] Received heartbeat from node node3. Total received: 3
+2024-12-02 15:05:17 [INFO] Node node3 is now responsive again.
+2024-12-02 15:05:19 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:19 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:20 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:20 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:20 [INFO] Received heartbeat from node node2. Total received: 4
+2024-12-02 15:05:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:22 [INFO] Received heartbeat from node node3. Total received: 5
+2024-12-02 15:05:24 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:24 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:25 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:25 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:25 [INFO] Received heartbeat from node node2. Total received: 6
+2024-12-02 15:05:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:27 [INFO] Received heartbeat from node node3. Total received: 7
+2024-12-02 15:05:29 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:29 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:30 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:30 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:30 [INFO] Received heartbeat from node node2. Total received: 8
+2024-12-02 15:05:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:32 [INFO] Received heartbeat from node node3. Total received: 9
+2024-12-02 15:05:34 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:34 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:35 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:35 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:35 [INFO] Received heartbeat from node node2. Total received: 10
+2024-12-02 15:05:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:37 [INFO] Received heartbeat from node node3. Total received: 11
+2024-12-02 15:05:39 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:39 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:40 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:40 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:40 [INFO] Received heartbeat from node node2. Total received: 12
+2024-12-02 15:05:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:42 [INFO] Received heartbeat from node node3. Total received: 13
+2024-12-02 15:05:44 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:44 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:45 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:45 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:45 [INFO] Received heartbeat from node node2. Total received: 14
+2024-12-02 15:05:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:47 [INFO] Received heartbeat from node node3. Total received: 15
+2024-12-02 15:05:49 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:49 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:50 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:50 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:50 [INFO] Received heartbeat from node node2. Total received: 16
+2024-12-02 15:05:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:52 [INFO] Received heartbeat from node node3. Total received: 17
+2024-12-02 15:05:54 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:54 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:05:55 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:55 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:05:55 [INFO] Received heartbeat from node node2. Total received: 18
+2024-12-02 15:05:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:05:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:05:57 [INFO] Received heartbeat from node node3. Total received: 19
+2024-12-02 15:05:59 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:05:59 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:00 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:00 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:00 [INFO] Received heartbeat from node node2. Total received: 20
+2024-12-02 15:06:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:02 [INFO] Received heartbeat from node node3. Total received: 21
+2024-12-02 15:06:04 [INFO] Heartbeats Sent: 19
+2024-12-02 15:06:04 [INFO] Heartbeats Received: 21
+2024-12-02 15:06:04 [INFO] Nodes Failed: 1
+2024-12-02 15:06:04 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:04 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:05 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:05 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:05 [INFO] Received heartbeat from node node2. Total received: 22
+2024-12-02 15:06:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:07 [INFO] Received heartbeat from node node3. Total received: 23
+2024-12-02 15:06:09 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:09 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:10 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:10 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:10 [INFO] Received heartbeat from node node2. Total received: 24
+2024-12-02 15:06:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:12 [INFO] Received heartbeat from node node3. Total received: 25
+2024-12-02 15:06:14 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:14 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:15 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:15 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:15 [INFO] Received heartbeat from node node2. Total received: 26
+2024-12-02 15:06:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:17 [INFO] Received heartbeat from node node3. Total received: 27
+2024-12-02 15:06:19 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:19 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:20 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:20 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:20 [INFO] Received heartbeat from node node2. Total received: 28
+2024-12-02 15:06:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:22 [INFO] Received heartbeat from node node3. Total received: 29
+2024-12-02 15:06:24 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:24 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:25 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:25 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:25 [INFO] Received heartbeat from node node2. Total received: 30
+2024-12-02 15:06:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:27 [INFO] Received heartbeat from node node3. Total received: 31
+2024-12-02 15:06:29 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:29 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:30 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:30 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:30 [INFO] Received heartbeat from node node2. Total received: 32
+2024-12-02 15:06:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:32 [INFO] Received heartbeat from node node3. Total received: 33
+2024-12-02 15:06:34 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:34 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:35 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:35 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:35 [INFO] Received heartbeat from node node2. Total received: 34
+2024-12-02 15:06:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:37 [INFO] Received heartbeat from node node3. Total received: 35
+2024-12-02 15:06:39 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:39 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:40 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:40 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:40 [INFO] Received heartbeat from node node2. Total received: 36
+2024-12-02 15:06:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:42 [INFO] Received heartbeat from node node3. Total received: 37
+2024-12-02 15:06:44 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:44 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:45 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:45 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:45 [INFO] Received heartbeat from node node2. Total received: 38
+2024-12-02 15:06:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:47 [INFO] Received heartbeat from node node3. Total received: 39
+2024-12-02 15:06:49 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:49 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:50 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:50 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:50 [INFO] Received heartbeat from node node2. Total received: 40
+2024-12-02 15:06:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:52 [INFO] Received heartbeat from node node3. Total received: 41
+2024-12-02 15:06:54 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:54 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:06:55 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:55 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:06:55 [INFO] Received heartbeat from node node2. Total received: 42
+2024-12-02 15:06:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:06:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:06:57 [INFO] Received heartbeat from node node3. Total received: 43
+2024-12-02 15:06:59 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:06:59 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:00 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:00 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:00 [INFO] Received heartbeat from node node2. Total received: 44
+2024-12-02 15:07:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:02 [INFO] Received heartbeat from node node3. Total received: 45
+2024-12-02 15:07:04 [INFO] Heartbeats Sent: 43
+2024-12-02 15:07:04 [INFO] Heartbeats Received: 45
+2024-12-02 15:07:04 [INFO] Nodes Failed: 1
+2024-12-02 15:07:04 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:04 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:05 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:05 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:05 [INFO] Received heartbeat from node node2. Total received: 46
+2024-12-02 15:07:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:07 [INFO] Received heartbeat from node node3. Total received: 47
+2024-12-02 15:07:09 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:09 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:10 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:10 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:10 [INFO] Received heartbeat from node node2. Total received: 48
+2024-12-02 15:07:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:12 [INFO] Received heartbeat from node node3. Total received: 49
+2024-12-02 15:07:14 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:14 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:15 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:15 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:15 [INFO] Received heartbeat from node node2. Total received: 50
+2024-12-02 15:07:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:17 [INFO] Received heartbeat from node node3. Total received: 51
+2024-12-02 15:07:19 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:19 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:20 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:20 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:20 [INFO] Received heartbeat from node node2. Total received: 52
+2024-12-02 15:07:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:22 [INFO] Received heartbeat from node node3. Total received: 53
+2024-12-02 15:07:24 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:24 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:25 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:25 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:25 [INFO] Received heartbeat from node node2. Total received: 54
+2024-12-02 15:07:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:27 [INFO] Received heartbeat from node node3. Total received: 55
+2024-12-02 15:07:29 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:29 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:30 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:30 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:30 [INFO] Received heartbeat from node node2. Total received: 56
+2024-12-02 15:07:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:32 [INFO] Received heartbeat from node node3. Total received: 57
+2024-12-02 15:07:34 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:34 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:35 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:35 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:35 [INFO] Received heartbeat from node node2. Total received: 58
+2024-12-02 15:07:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:37 [INFO] Received heartbeat from node node3. Total received: 59
+2024-12-02 15:07:39 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:39 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:40 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:40 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:40 [INFO] Received heartbeat from node node2. Total received: 60
+2024-12-02 15:07:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:42 [INFO] Received heartbeat from node node3. Total received: 61
+2024-12-02 15:07:44 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:44 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:45 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:45 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:45 [INFO] Received heartbeat from node node2. Total received: 62
+2024-12-02 15:07:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:47 [INFO] Received heartbeat from node node3. Total received: 63
+2024-12-02 15:07:49 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:49 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:50 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:50 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:50 [INFO] Received heartbeat from node node2. Total received: 64
+2024-12-02 15:07:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:52 [INFO] Received heartbeat from node node3. Total received: 65
+2024-12-02 15:07:54 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:54 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:07:55 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:55 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:07:55 [INFO] Received heartbeat from node node2. Total received: 66
+2024-12-02 15:07:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:07:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:07:57 [INFO] Received heartbeat from node node3. Total received: 67
+2024-12-02 15:07:59 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:07:59 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:00 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:00 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:00 [INFO] Received heartbeat from node node2. Total received: 68
+2024-12-02 15:08:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:02 [INFO] Received heartbeat from node node3. Total received: 69
+2024-12-02 15:08:04 [INFO] Heartbeats Sent: 67
+2024-12-02 15:08:04 [INFO] Heartbeats Received: 69
+2024-12-02 15:08:04 [INFO] Nodes Failed: 1
+2024-12-02 15:08:04 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:04 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:05 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:05 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:05 [INFO] Received heartbeat from node node2. Total received: 70
+2024-12-02 15:08:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:07 [INFO] Received heartbeat from node node3. Total received: 71
+2024-12-02 15:08:09 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:09 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:10 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:10 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:10 [INFO] Received heartbeat from node node2. Total received: 72
+2024-12-02 15:08:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:12 [INFO] Received heartbeat from node node3. Total received: 73
+2024-12-02 15:08:14 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:14 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:16 [INFO] Received heartbeat from node node2. Total received: 74
+2024-12-02 15:08:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:17 [INFO] Received heartbeat from node node3. Total received: 75
+2024-12-02 15:08:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:21 [INFO] Received heartbeat from node node2. Total received: 76
+2024-12-02 15:08:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:22 [INFO] Received heartbeat from node node3. Total received: 77
+2024-12-02 15:08:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:26 [INFO] Received heartbeat from node node2. Total received: 78
+2024-12-02 15:08:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:27 [INFO] Received heartbeat from node node3. Total received: 79
+2024-12-02 15:08:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:31 [INFO] Received heartbeat from node node2. Total received: 80
+2024-12-02 15:08:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:32 [INFO] Received heartbeat from node node3. Total received: 81
+2024-12-02 15:08:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:36 [INFO] Received heartbeat from node node2. Total received: 82
+2024-12-02 15:08:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:37 [INFO] Received heartbeat from node node3. Total received: 83
+2024-12-02 15:08:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:41 [INFO] Received heartbeat from node node2. Total received: 84
+2024-12-02 15:08:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:42 [INFO] Received heartbeat from node node3. Total received: 85
+2024-12-02 15:08:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:46 [INFO] Received heartbeat from node node2. Total received: 86
+2024-12-02 15:08:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:47 [INFO] Received heartbeat from node node3. Total received: 87
+2024-12-02 15:08:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:51 [INFO] Received heartbeat from node node2. Total received: 88
+2024-12-02 15:08:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:52 [INFO] Received heartbeat from node node3. Total received: 89
+2024-12-02 15:08:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:08:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:08:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:08:56 [INFO] Received heartbeat from node node2. Total received: 90
+2024-12-02 15:08:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:08:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:08:57 [INFO] Received heartbeat from node node3. Total received: 91
+2024-12-02 15:09:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:01 [INFO] Received heartbeat from node node2. Total received: 92
+2024-12-02 15:09:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:03 [INFO] Received heartbeat from node node3. Total received: 93
+2024-12-02 15:09:04 [INFO] Heartbeats Sent: 91
+2024-12-02 15:09:04 [INFO] Heartbeats Received: 93
+2024-12-02 15:09:04 [INFO] Nodes Failed: 1
+2024-12-02 15:09:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:06 [INFO] Received heartbeat from node node2. Total received: 94
+2024-12-02 15:09:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:08 [INFO] Received heartbeat from node node3. Total received: 95
+2024-12-02 15:09:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:11 [INFO] Received heartbeat from node node2. Total received: 96
+2024-12-02 15:09:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:13 [INFO] Received heartbeat from node node3. Total received: 97
+2024-12-02 15:09:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:16 [INFO] Received heartbeat from node node2. Total received: 98
+2024-12-02 15:09:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:18 [INFO] Received heartbeat from node node3. Total received: 99
+2024-12-02 15:09:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:21 [INFO] Received heartbeat from node node2. Total received: 100
+2024-12-02 15:09:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:23 [INFO] Received heartbeat from node node3. Total received: 101
+2024-12-02 15:09:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:26 [INFO] Received heartbeat from node node2. Total received: 102
+2024-12-02 15:09:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:28 [INFO] Received heartbeat from node node3. Total received: 103
+2024-12-02 15:09:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:31 [INFO] Received heartbeat from node node2. Total received: 104
+2024-12-02 15:09:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:33 [INFO] Received heartbeat from node node3. Total received: 105
+2024-12-02 15:09:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:36 [INFO] Received heartbeat from node node2. Total received: 106
+2024-12-02 15:09:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:38 [INFO] Received heartbeat from node node3. Total received: 107
+2024-12-02 15:09:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:41 [INFO] Received heartbeat from node node2. Total received: 108
+2024-12-02 15:09:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:43 [INFO] Received heartbeat from node node3. Total received: 109
+2024-12-02 15:09:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:46 [INFO] Received heartbeat from node node2. Total received: 110
+2024-12-02 15:09:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:48 [INFO] Received heartbeat from node node3. Total received: 111
+2024-12-02 15:09:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:51 [INFO] Received heartbeat from node node2. Total received: 112
+2024-12-02 15:09:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:53 [INFO] Received heartbeat from node node3. Total received: 113
+2024-12-02 15:09:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:09:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:09:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:09:56 [INFO] Received heartbeat from node node2. Total received: 114
+2024-12-02 15:09:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:09:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:09:58 [INFO] Received heartbeat from node node3. Total received: 115
+2024-12-02 15:10:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:01 [INFO] Received heartbeat from node node2. Total received: 116
+2024-12-02 15:10:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:03 [INFO] Received heartbeat from node node3. Total received: 117
+2024-12-02 15:10:04 [INFO] Heartbeats Sent: 115
+2024-12-02 15:10:04 [INFO] Heartbeats Received: 117
+2024-12-02 15:10:04 [INFO] Nodes Failed: 1
+2024-12-02 15:10:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:06 [INFO] Received heartbeat from node node2. Total received: 118
+2024-12-02 15:10:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:08 [INFO] Received heartbeat from node node3. Total received: 119
+2024-12-02 15:10:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:11 [INFO] Received heartbeat from node node2. Total received: 120
+2024-12-02 15:10:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:13 [INFO] Received heartbeat from node node3. Total received: 121
+2024-12-02 15:10:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:16 [INFO] Received heartbeat from node node2. Total received: 122
+2024-12-02 15:10:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:18 [INFO] Received heartbeat from node node3. Total received: 123
+2024-12-02 15:10:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:21 [INFO] Received heartbeat from node node2. Total received: 124
+2024-12-02 15:10:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:23 [INFO] Received heartbeat from node node3. Total received: 125
+2024-12-02 15:10:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:26 [INFO] Received heartbeat from node node2. Total received: 126
+2024-12-02 15:10:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:28 [INFO] Received heartbeat from node node3. Total received: 127
+2024-12-02 15:10:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:31 [INFO] Received heartbeat from node node2. Total received: 128
+2024-12-02 15:10:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:33 [INFO] Received heartbeat from node node3. Total received: 129
+2024-12-02 15:10:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:36 [INFO] Received heartbeat from node node2. Total received: 130
+2024-12-02 15:10:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:38 [INFO] Received heartbeat from node node3. Total received: 131
+2024-12-02 15:10:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:41 [INFO] Received heartbeat from node node2. Total received: 132
+2024-12-02 15:10:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:43 [INFO] Received heartbeat from node node3. Total received: 133
+2024-12-02 15:10:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:46 [INFO] Received heartbeat from node node2. Total received: 134
+2024-12-02 15:10:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:48 [INFO] Received heartbeat from node node3. Total received: 135
+2024-12-02 15:10:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:51 [INFO] Received heartbeat from node node2. Total received: 136
+2024-12-02 15:10:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:53 [INFO] Received heartbeat from node node3. Total received: 137
+2024-12-02 15:10:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:10:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:10:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:10:56 [INFO] Received heartbeat from node node2. Total received: 138
+2024-12-02 15:10:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:10:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:10:58 [INFO] Received heartbeat from node node3. Total received: 139
+2024-12-02 15:11:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:01 [INFO] Received heartbeat from node node2. Total received: 140
+2024-12-02 15:11:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:03 [INFO] Received heartbeat from node node3. Total received: 141
+2024-12-02 15:11:04 [INFO] Heartbeats Sent: 139
+2024-12-02 15:11:04 [INFO] Heartbeats Received: 141
+2024-12-02 15:11:04 [INFO] Nodes Failed: 1
+2024-12-02 15:11:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:06 [INFO] Received heartbeat from node node2. Total received: 142
+2024-12-02 15:11:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:08 [INFO] Received heartbeat from node node3. Total received: 143
+2024-12-02 15:11:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:11 [INFO] Received heartbeat from node node2. Total received: 144
+2024-12-02 15:11:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:13 [INFO] Received heartbeat from node node3. Total received: 145
+2024-12-02 15:11:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:16 [INFO] Received heartbeat from node node2. Total received: 146
+2024-12-02 15:11:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:18 [INFO] Received heartbeat from node node3. Total received: 147
+2024-12-02 15:11:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:21 [INFO] Received heartbeat from node node2. Total received: 148
+2024-12-02 15:11:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:23 [INFO] Received heartbeat from node node3. Total received: 149
+2024-12-02 15:11:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:26 [INFO] Received heartbeat from node node2. Total received: 150
+2024-12-02 15:11:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:28 [INFO] Received heartbeat from node node3. Total received: 151
+2024-12-02 15:11:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:31 [INFO] Received heartbeat from node node2. Total received: 152
+2024-12-02 15:11:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:33 [INFO] Received heartbeat from node node3. Total received: 153
+2024-12-02 15:11:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:36 [INFO] Received heartbeat from node node2. Total received: 154
+2024-12-02 15:11:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:38 [INFO] Received heartbeat from node node3. Total received: 155
+2024-12-02 15:11:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:41 [INFO] Received heartbeat from node node2. Total received: 156
+2024-12-02 15:11:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:43 [INFO] Received heartbeat from node node3. Total received: 157
+2024-12-02 15:11:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:46 [INFO] Received heartbeat from node node2. Total received: 158
+2024-12-02 15:11:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:48 [INFO] Received heartbeat from node node3. Total received: 159
+2024-12-02 15:11:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:51 [INFO] Received heartbeat from node node2. Total received: 160
+2024-12-02 15:11:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:53 [INFO] Received heartbeat from node node3. Total received: 161
+2024-12-02 15:11:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:11:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:11:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:11:56 [INFO] Received heartbeat from node node2. Total received: 162
+2024-12-02 15:11:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:11:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:11:58 [INFO] Received heartbeat from node node3. Total received: 163
+2024-12-02 15:12:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:01 [INFO] Received heartbeat from node node2. Total received: 164
+2024-12-02 15:12:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:03 [INFO] Received heartbeat from node node3. Total received: 165
+2024-12-02 15:12:04 [INFO] Heartbeats Sent: 163
+2024-12-02 15:12:04 [INFO] Heartbeats Received: 165
+2024-12-02 15:12:04 [INFO] Nodes Failed: 1
+2024-12-02 15:12:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:06 [INFO] Received heartbeat from node node2. Total received: 166
+2024-12-02 15:12:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:08 [INFO] Received heartbeat from node node3. Total received: 167
+2024-12-02 15:12:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:11 [INFO] Received heartbeat from node node2. Total received: 168
+2024-12-02 15:12:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:13 [INFO] Received heartbeat from node node3. Total received: 169
+2024-12-02 15:12:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:16 [INFO] Received heartbeat from node node2. Total received: 170
+2024-12-02 15:12:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:18 [INFO] Received heartbeat from node node3. Total received: 171
+2024-12-02 15:12:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:21 [INFO] Received heartbeat from node node2. Total received: 172
+2024-12-02 15:12:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:23 [INFO] Received heartbeat from node node3. Total received: 173
+2024-12-02 15:12:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:26 [INFO] Received heartbeat from node node2. Total received: 174
+2024-12-02 15:12:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:28 [INFO] Received heartbeat from node node3. Total received: 175
+2024-12-02 15:12:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:31 [INFO] Received heartbeat from node node2. Total received: 176
+2024-12-02 15:12:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:33 [INFO] Received heartbeat from node node3. Total received: 177
+2024-12-02 15:12:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:36 [INFO] Received heartbeat from node node2. Total received: 178
+2024-12-02 15:12:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:38 [INFO] Received heartbeat from node node3. Total received: 179
+2024-12-02 15:12:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:41 [INFO] Received heartbeat from node node2. Total received: 180
+2024-12-02 15:12:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:43 [INFO] Received heartbeat from node node3. Total received: 181
+2024-12-02 15:12:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:46 [INFO] Received heartbeat from node node2. Total received: 182
+2024-12-02 15:12:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:48 [INFO] Received heartbeat from node node3. Total received: 183
+2024-12-02 15:12:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:51 [INFO] Received heartbeat from node node2. Total received: 184
+2024-12-02 15:12:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:53 [INFO] Received heartbeat from node node3. Total received: 185
+2024-12-02 15:12:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:12:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:12:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:12:56 [INFO] Received heartbeat from node node2. Total received: 186
+2024-12-02 15:12:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:12:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:12:58 [INFO] Received heartbeat from node node3. Total received: 187
+2024-12-02 15:13:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:01 [INFO] Received heartbeat from node node2. Total received: 188
+2024-12-02 15:13:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:03 [INFO] Received heartbeat from node node3. Total received: 189
+2024-12-02 15:13:04 [INFO] Heartbeats Sent: 187
+2024-12-02 15:13:04 [INFO] Heartbeats Received: 189
+2024-12-02 15:13:04 [INFO] Nodes Failed: 1
+2024-12-02 15:13:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:06 [INFO] Received heartbeat from node node2. Total received: 190
+2024-12-02 15:13:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:08 [INFO] Received heartbeat from node node3. Total received: 191
+2024-12-02 15:13:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:11 [INFO] Received heartbeat from node node2. Total received: 192
+2024-12-02 15:13:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:13 [INFO] Received heartbeat from node node3. Total received: 193
+2024-12-02 15:13:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:16 [INFO] Received heartbeat from node node2. Total received: 194
+2024-12-02 15:13:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:18 [INFO] Received heartbeat from node node3. Total received: 195
+2024-12-02 15:13:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:21 [INFO] Received heartbeat from node node2. Total received: 196
+2024-12-02 15:13:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:23 [INFO] Received heartbeat from node node3. Total received: 197
+2024-12-02 15:13:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:26 [INFO] Received heartbeat from node node2. Total received: 198
+2024-12-02 15:13:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:28 [INFO] Received heartbeat from node node3. Total received: 199
+2024-12-02 15:13:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:31 [INFO] Received heartbeat from node node2. Total received: 200
+2024-12-02 15:13:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:33 [INFO] Received heartbeat from node node3. Total received: 201
+2024-12-02 15:13:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:36 [INFO] Received heartbeat from node node2. Total received: 202
+2024-12-02 15:13:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:38 [INFO] Received heartbeat from node node3. Total received: 203
+2024-12-02 15:13:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:41 [INFO] Received heartbeat from node node2. Total received: 204
+2024-12-02 15:13:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:43 [INFO] Received heartbeat from node node3. Total received: 205
+2024-12-02 15:13:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:46 [INFO] Received heartbeat from node node2. Total received: 206
+2024-12-02 15:13:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:48 [INFO] Received heartbeat from node node3. Total received: 207
+2024-12-02 15:13:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:51 [INFO] Received heartbeat from node node2. Total received: 208
+2024-12-02 15:13:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:53 [INFO] Received heartbeat from node node3. Total received: 209
+2024-12-02 15:13:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:13:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:13:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:13:56 [INFO] Received heartbeat from node node2. Total received: 210
+2024-12-02 15:13:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:13:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:13:58 [INFO] Received heartbeat from node node3. Total received: 211
+2024-12-02 15:14:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:01 [INFO] Received heartbeat from node node2. Total received: 212
+2024-12-02 15:14:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:03 [INFO] Received heartbeat from node node3. Total received: 213
+2024-12-02 15:14:04 [INFO] Heartbeats Sent: 211
+2024-12-02 15:14:04 [INFO] Heartbeats Received: 213
+2024-12-02 15:14:04 [INFO] Nodes Failed: 1
+2024-12-02 15:14:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:06 [INFO] Received heartbeat from node node2. Total received: 214
+2024-12-02 15:14:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:08 [INFO] Received heartbeat from node node3. Total received: 215
+2024-12-02 15:14:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:11 [INFO] Received heartbeat from node node2. Total received: 216
+2024-12-02 15:14:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:13 [INFO] Received heartbeat from node node3. Total received: 217
+2024-12-02 15:14:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:16 [INFO] Received heartbeat from node node2. Total received: 218
+2024-12-02 15:14:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:18 [INFO] Received heartbeat from node node3. Total received: 219
+2024-12-02 15:14:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:21 [INFO] Received heartbeat from node node2. Total received: 220
+2024-12-02 15:14:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:23 [INFO] Received heartbeat from node node3. Total received: 221
+2024-12-02 15:14:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:26 [INFO] Received heartbeat from node node2. Total received: 222
+2024-12-02 15:14:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:28 [INFO] Received heartbeat from node node3. Total received: 223
+2024-12-02 15:14:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:31 [INFO] Received heartbeat from node node2. Total received: 224
+2024-12-02 15:14:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:33 [INFO] Received heartbeat from node node3. Total received: 225
+2024-12-02 15:14:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:36 [INFO] Received heartbeat from node node2. Total received: 226
+2024-12-02 15:14:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:38 [INFO] Received heartbeat from node node3. Total received: 227
+2024-12-02 15:14:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:41 [INFO] Received heartbeat from node node2. Total received: 228
+2024-12-02 15:14:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:43 [INFO] Received heartbeat from node node3. Total received: 229
+2024-12-02 15:14:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:46 [INFO] Received heartbeat from node node2. Total received: 230
+2024-12-02 15:14:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:48 [INFO] Received heartbeat from node node3. Total received: 231
+2024-12-02 15:14:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:51 [INFO] Received heartbeat from node node2. Total received: 232
+2024-12-02 15:14:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:53 [INFO] Received heartbeat from node node3. Total received: 233
+2024-12-02 15:14:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:14:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:14:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:14:56 [INFO] Received heartbeat from node node2. Total received: 234
+2024-12-02 15:14:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:14:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:14:58 [INFO] Received heartbeat from node node3. Total received: 235
+2024-12-02 15:15:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:01 [INFO] Received heartbeat from node node2. Total received: 236
+2024-12-02 15:15:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:03 [INFO] Received heartbeat from node node3. Total received: 237
+2024-12-02 15:15:04 [INFO] Heartbeats Sent: 235
+2024-12-02 15:15:04 [INFO] Heartbeats Received: 237
+2024-12-02 15:15:04 [INFO] Nodes Failed: 1
+2024-12-02 15:15:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:06 [INFO] Received heartbeat from node node2. Total received: 238
+2024-12-02 15:15:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:08 [INFO] Received heartbeat from node node3. Total received: 239
+2024-12-02 15:15:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:11 [INFO] Received heartbeat from node node2. Total received: 240
+2024-12-02 15:15:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:13 [INFO] Received heartbeat from node node3. Total received: 241
+2024-12-02 15:15:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:16 [INFO] Received heartbeat from node node2. Total received: 242
+2024-12-02 15:15:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:18 [INFO] Received heartbeat from node node3. Total received: 243
+2024-12-02 15:15:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:21 [INFO] Received heartbeat from node node2. Total received: 244
+2024-12-02 15:15:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:23 [INFO] Received heartbeat from node node3. Total received: 245
+2024-12-02 15:15:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:26 [INFO] Received heartbeat from node node2. Total received: 246
+2024-12-02 15:15:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:28 [INFO] Received heartbeat from node node3. Total received: 247
+2024-12-02 15:15:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:31 [INFO] Received heartbeat from node node2. Total received: 248
+2024-12-02 15:15:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:33 [INFO] Received heartbeat from node node3. Total received: 249
+2024-12-02 15:15:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:36 [INFO] Received heartbeat from node node2. Total received: 250
+2024-12-02 15:15:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:38 [INFO] Received heartbeat from node node3. Total received: 251
+2024-12-02 15:15:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:41 [INFO] Received heartbeat from node node2. Total received: 252
+2024-12-02 15:15:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:43 [INFO] Received heartbeat from node node3. Total received: 253
+2024-12-02 15:15:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:46 [INFO] Received heartbeat from node node2. Total received: 254
+2024-12-02 15:15:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:48 [INFO] Received heartbeat from node node3. Total received: 255
+2024-12-02 15:15:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:51 [INFO] Received heartbeat from node node2. Total received: 256
+2024-12-02 15:15:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:53 [INFO] Received heartbeat from node node3. Total received: 257
+2024-12-02 15:15:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:15:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:15:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:15:56 [INFO] Received heartbeat from node node2. Total received: 258
+2024-12-02 15:15:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:15:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:15:58 [INFO] Received heartbeat from node node3. Total received: 259
+2024-12-02 15:16:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:01 [INFO] Received heartbeat from node node2. Total received: 260
+2024-12-02 15:16:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:03 [INFO] Received heartbeat from node node3. Total received: 261
+2024-12-02 15:16:04 [INFO] Heartbeats Sent: 259
+2024-12-02 15:16:04 [INFO] Heartbeats Received: 261
+2024-12-02 15:16:04 [INFO] Nodes Failed: 1
+2024-12-02 15:16:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:06 [INFO] Received heartbeat from node node2. Total received: 262
+2024-12-02 15:16:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:08 [INFO] Received heartbeat from node node3. Total received: 263
+2024-12-02 15:16:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:11 [INFO] Received heartbeat from node node2. Total received: 264
+2024-12-02 15:16:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:13 [INFO] Received heartbeat from node node3. Total received: 265
+2024-12-02 15:16:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:16 [INFO] Received heartbeat from node node2. Total received: 266
+2024-12-02 15:16:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:18 [INFO] Received heartbeat from node node3. Total received: 267
+2024-12-02 15:16:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:21 [INFO] Received heartbeat from node node2. Total received: 268
+2024-12-02 15:16:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:23 [INFO] Received heartbeat from node node3. Total received: 269
+2024-12-02 15:16:25 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:25 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:26 [INFO] Received heartbeat from node node2. Total received: 270
+2024-12-02 15:16:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:28 [INFO] Received heartbeat from node node3. Total received: 271
+2024-12-02 15:16:30 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:30 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:31 [INFO] Received heartbeat from node node2. Total received: 272
+2024-12-02 15:16:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:33 [INFO] Received heartbeat from node node3. Total received: 273
+2024-12-02 15:16:35 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:35 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:37 [INFO] Received heartbeat from node node2. Total received: 274
+2024-12-02 15:16:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:38 [INFO] Received heartbeat from node node3. Total received: 275
+2024-12-02 15:16:40 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:40 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:42 [INFO] Received heartbeat from node node2. Total received: 276
+2024-12-02 15:16:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:43 [INFO] Received heartbeat from node node3. Total received: 277
+2024-12-02 15:16:45 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:45 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:47 [INFO] Received heartbeat from node node2. Total received: 278
+2024-12-02 15:16:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:48 [INFO] Received heartbeat from node node3. Total received: 279
+2024-12-02 15:16:50 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:50 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:52 [INFO] Received heartbeat from node node2. Total received: 280
+2024-12-02 15:16:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:53 [INFO] Received heartbeat from node node3. Total received: 281
+2024-12-02 15:16:55 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:16:55 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:16:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:16:57 [INFO] Received heartbeat from node node2. Total received: 282
+2024-12-02 15:16:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:16:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:16:58 [INFO] Received heartbeat from node node3. Total received: 283
+2024-12-02 15:17:00 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:00 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:02 [INFO] Received heartbeat from node node2. Total received: 284
+2024-12-02 15:17:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:03 [INFO] Received heartbeat from node node3. Total received: 285
+2024-12-02 15:17:04 [INFO] Heartbeats Sent: 283
+2024-12-02 15:17:04 [INFO] Heartbeats Received: 285
+2024-12-02 15:17:04 [INFO] Nodes Failed: 1
+2024-12-02 15:17:05 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:05 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:07 [INFO] Received heartbeat from node node2. Total received: 286
+2024-12-02 15:17:08 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:08 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:08 [INFO] Received heartbeat from node node3. Total received: 287
+2024-12-02 15:17:10 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:10 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:12 [INFO] Received heartbeat from node node2. Total received: 288
+2024-12-02 15:17:13 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:13 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:13 [INFO] Received heartbeat from node node3. Total received: 289
+2024-12-02 15:17:15 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:15 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:17 [INFO] Received heartbeat from node node2. Total received: 290
+2024-12-02 15:17:18 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:18 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:18 [INFO] Received heartbeat from node node3. Total received: 291
+2024-12-02 15:17:20 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:20 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:22 [INFO] Received heartbeat from node node2. Total received: 292
+2024-12-02 15:17:23 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:23 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:23 [INFO] Received heartbeat from node node3. Total received: 293
+2024-12-02 15:17:26 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:26 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:27 [INFO] Received heartbeat from node node2. Total received: 294
+2024-12-02 15:17:28 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:28 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:28 [INFO] Received heartbeat from node node3. Total received: 295
+2024-12-02 15:17:31 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:31 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:32 [INFO] Received heartbeat from node node2. Total received: 296
+2024-12-02 15:17:33 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:33 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:33 [INFO] Received heartbeat from node node3. Total received: 297
+2024-12-02 15:17:36 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:36 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:37 [INFO] Received heartbeat from node node2. Total received: 298
+2024-12-02 15:17:38 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:38 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:38 [INFO] Received heartbeat from node node3. Total received: 299
+2024-12-02 15:17:41 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:41 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:42 [INFO] Received heartbeat from node node2. Total received: 300
+2024-12-02 15:17:43 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:43 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:43 [INFO] Received heartbeat from node node3. Total received: 301
+2024-12-02 15:17:46 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:46 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:47 [INFO] Received heartbeat from node node2. Total received: 302
+2024-12-02 15:17:48 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:48 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:48 [INFO] Received heartbeat from node node3. Total received: 303
+2024-12-02 15:17:51 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:51 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:52 [INFO] Received heartbeat from node node2. Total received: 304
+2024-12-02 15:17:53 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:53 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:53 [INFO] Received heartbeat from node node3. Total received: 305
+2024-12-02 15:17:56 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:17:56 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:17:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:17:57 [INFO] Received heartbeat from node node2. Total received: 306
+2024-12-02 15:17:58 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:17:58 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:17:58 [INFO] Received heartbeat from node node3. Total received: 307
+2024-12-02 15:18:01 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:01 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:02 [INFO] Received heartbeat from node node2. Total received: 308
+2024-12-02 15:18:03 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:03 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:03 [INFO] Received heartbeat from node node3. Total received: 309
+2024-12-02 15:18:04 [INFO] Heartbeats Sent: 307
+2024-12-02 15:18:04 [INFO] Heartbeats Received: 309
+2024-12-02 15:18:04 [INFO] Nodes Failed: 1
+2024-12-02 15:18:06 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:06 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:07 [INFO] Received heartbeat from node node2. Total received: 310
+2024-12-02 15:18:09 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:09 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:09 [INFO] Received heartbeat from node node3. Total received: 311
+2024-12-02 15:18:11 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:11 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:12 [INFO] Received heartbeat from node node2. Total received: 312
+2024-12-02 15:18:14 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:14 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:14 [INFO] Received heartbeat from node node3. Total received: 313
+2024-12-02 15:18:16 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:16 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:17 [INFO] Received heartbeat from node node2. Total received: 314
+2024-12-02 15:18:19 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:19 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:19 [INFO] Received heartbeat from node node3. Total received: 315
+2024-12-02 15:18:21 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:21 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:22 [INFO] Received heartbeat from node node2. Total received: 316
+2024-12-02 15:18:24 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:24 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:24 [INFO] Received heartbeat from node node3. Total received: 317
+2024-12-02 15:18:26 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:26 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:27 [INFO] Received heartbeat from node node2. Total received: 318
+2024-12-02 15:18:29 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:29 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:29 [INFO] Received heartbeat from node node3. Total received: 319
+2024-12-02 15:18:31 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:31 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:32 [INFO] Received heartbeat from node node2. Total received: 320
+2024-12-02 15:18:34 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:34 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:34 [INFO] Received heartbeat from node node3. Total received: 321
+2024-12-02 15:18:36 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:36 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:37 [INFO] Received heartbeat from node node2. Total received: 322
+2024-12-02 15:18:39 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:39 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:39 [INFO] Received heartbeat from node node3. Total received: 323
+2024-12-02 15:18:41 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:41 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:42 [INFO] Received heartbeat from node node2. Total received: 324
+2024-12-02 15:18:44 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:44 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:44 [INFO] Received heartbeat from node node3. Total received: 325
+2024-12-02 15:18:46 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:46 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:47 [INFO] Received heartbeat from node node2. Total received: 326
+2024-12-02 15:18:49 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:49 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:49 [INFO] Received heartbeat from node node3. Total received: 327
+2024-12-02 15:18:51 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:51 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:52 [INFO] Received heartbeat from node node2. Total received: 328
+2024-12-02 15:18:54 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:54 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:54 [INFO] Received heartbeat from node node3. Total received: 329
+2024-12-02 15:18:56 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:18:56 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:18:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:18:57 [INFO] Received heartbeat from node node2. Total received: 330
+2024-12-02 15:18:59 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:18:59 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:18:59 [INFO] Received heartbeat from node node3. Total received: 331
+2024-12-02 15:19:01 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:01 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:02 [INFO] Received heartbeat from node node2. Total received: 332
+2024-12-02 15:19:04 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:04 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:04 [INFO] Received heartbeat from node node3. Total received: 333
+2024-12-02 15:19:04 [INFO] Heartbeats Sent: 331
+2024-12-02 15:19:04 [INFO] Heartbeats Received: 333
+2024-12-02 15:19:04 [INFO] Nodes Failed: 1
+2024-12-02 15:19:06 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:06 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:07 [INFO] Received heartbeat from node node2. Total received: 334
+2024-12-02 15:19:09 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:09 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:09 [INFO] Received heartbeat from node node3. Total received: 335
+2024-12-02 15:19:11 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:11 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:12 [INFO] Received heartbeat from node node2. Total received: 336
+2024-12-02 15:19:14 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:14 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:14 [INFO] Received heartbeat from node node3. Total received: 337
+2024-12-02 15:19:16 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:16 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:17 [INFO] Received heartbeat from node node2. Total received: 338
+2024-12-02 15:19:19 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:19 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:19 [INFO] Received heartbeat from node node3. Total received: 339
+2024-12-02 15:19:21 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:21 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:22 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:22 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:22 [INFO] Received heartbeat from node node2. Total received: 340
+2024-12-02 15:19:24 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:24 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:24 [INFO] Received heartbeat from node node3. Total received: 341
+2024-12-02 15:19:26 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:26 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:27 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:27 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:27 [INFO] Received heartbeat from node node2. Total received: 342
+2024-12-02 15:19:29 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:29 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:29 [INFO] Received heartbeat from node node3. Total received: 343
+2024-12-02 15:19:31 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:31 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:32 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:32 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:32 [INFO] Received heartbeat from node node2. Total received: 344
+2024-12-02 15:19:34 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:34 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:34 [INFO] Received heartbeat from node node3. Total received: 345
+2024-12-02 15:19:36 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:36 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:37 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:37 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:37 [INFO] Received heartbeat from node node2. Total received: 346
+2024-12-02 15:19:39 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:39 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:39 [INFO] Received heartbeat from node node3. Total received: 347
+2024-12-02 15:19:41 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:41 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:42 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:42 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:42 [INFO] Received heartbeat from node node2. Total received: 348
+2024-12-02 15:19:44 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:44 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:44 [INFO] Received heartbeat from node node3. Total received: 349
+2024-12-02 15:19:46 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:46 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:47 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:47 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:47 [INFO] Received heartbeat from node node2. Total received: 350
+2024-12-02 15:19:49 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:49 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:49 [INFO] Received heartbeat from node node3. Total received: 351
+2024-12-02 15:19:51 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:51 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:52 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:52 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:52 [INFO] Received heartbeat from node node2. Total received: 352
+2024-12-02 15:19:54 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:54 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:54 [INFO] Received heartbeat from node node3. Total received: 353
+2024-12-02 15:19:56 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:19:56 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:19:57 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:57 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:19:57 [INFO] Received heartbeat from node node2. Total received: 354
+2024-12-02 15:19:59 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:19:59 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:19:59 [INFO] Received heartbeat from node node3. Total received: 355
+2024-12-02 15:20:01 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:20:01 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:02 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:02 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:20:02 [INFO] Received heartbeat from node node2. Total received: 356
+2024-12-02 15:20:04 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:04 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:04 [INFO] Received heartbeat from node node3. Total received: 357
+2024-12-02 15:20:04 [INFO] Heartbeats Sent: 355
+2024-12-02 15:20:04 [INFO] Heartbeats Received: 357
+2024-12-02 15:20:04 [INFO] Nodes Failed: 1
+2024-12-02 15:20:06 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:20:06 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:07 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:07 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:20:07 [INFO] Received heartbeat from node node2. Total received: 358
+2024-12-02 15:20:09 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:09 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:09 [INFO] Received heartbeat from node node3. Total received: 359
+2024-12-02 15:20:11 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:20:11 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:12 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:12 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:20:12 [INFO] Received heartbeat from node node2. Total received: 360
+2024-12-02 15:20:14 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:14 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:14 [INFO] Received heartbeat from node node3. Total received: 361
+2024-12-02 15:20:16 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:20:16 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:17 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:17 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:20:17 [INFO] Received heartbeat from node node2. Total received: 362
+2024-12-02 15:20:19 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:19 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:19 [INFO] Received heartbeat from node node3. Total received: 363
+2024-12-02 15:20:21 [ERROR] Failed to send heartbeat to node node2 (Attempt 1/3): Connection refused: no further information
+2024-12-02 15:20:21 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:24 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:24 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:24 [INFO] Received heartbeat from node node3. Total received: 364
+2024-12-02 15:20:26 [ERROR] Failed to send heartbeat to node node2 (Attempt 2/3): Connection refused: no further information
+2024-12-02 15:20:26 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:29 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:29 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:29 [INFO] Received heartbeat from node node3. Total received: 365
+2024-12-02 15:20:31 [ERROR] Failed to send heartbeat to node node2 (Attempt 3/3): Connection refused: no further information
+2024-12-02 15:20:31 [ERROR] Node node2 is unresponsive after 3 attempts.
+2024-12-02 15:20:31 [INFO] Handling failure of node node2
+2024-12-02 15:20:31 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:34 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:34 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:34 [INFO] Received heartbeat from node node3. Total received: 366
+2024-12-02 15:20:36 [ERROR] Failed to send heartbeat to node node2 (Attempt 4/3): Connection refused: no further information
+2024-12-02 15:20:36 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:39 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:39 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:39 [INFO] Received heartbeat from node node3. Total received: 367
+2024-12-02 15:20:41 [ERROR] Failed to send heartbeat to node node2 (Attempt 5/3): Connection refused: no further information
+2024-12-02 15:20:41 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:44 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:44 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:44 [INFO] Received heartbeat from node node3. Total received: 368
+2024-12-02 15:20:46 [ERROR] Failed to send heartbeat to node node2 (Attempt 6/3): Connection refused: no further information
+2024-12-02 15:20:46 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:49 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:49 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:49 [INFO] Received heartbeat from node node3. Total received: 369
+2024-12-02 15:20:51 [ERROR] Failed to send heartbeat to node node2 (Attempt 7/3): Connection refused: no further information
+2024-12-02 15:20:51 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:54 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:54 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:54 [INFO] Received heartbeat from node node3. Total received: 370
+2024-12-02 15:20:56 [ERROR] Failed to send heartbeat to node node2 (Attempt 8/3): Connection refused: no further information
+2024-12-02 15:20:56 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:20:59 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:20:59 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:20:59 [INFO] Received heartbeat from node node3. Total received: 371
+2024-12-02 15:21:01 [ERROR] Failed to send heartbeat to node node2 (Attempt 9/3): Connection refused: no further information
+2024-12-02 15:21:01 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:04 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:04 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:04 [INFO] Received heartbeat from node node3. Total received: 372
+2024-12-02 15:21:04 [INFO] Heartbeats Sent: 370
+2024-12-02 15:21:04 [INFO] Heartbeats Received: 372
+2024-12-02 15:21:04 [INFO] Nodes Failed: 2
+2024-12-02 15:21:06 [ERROR] Failed to send heartbeat to node node2 (Attempt 10/3): Connection refused: no further information
+2024-12-02 15:21:06 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:09 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:09 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:09 [INFO] Received heartbeat from node node3. Total received: 373
+2024-12-02 15:21:11 [ERROR] Failed to send heartbeat to node node2 (Attempt 11/3): Connection refused: no further information
+2024-12-02 15:21:11 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:14 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:14 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:14 [INFO] Received heartbeat from node node3. Total received: 374
+2024-12-02 15:21:16 [ERROR] Failed to send heartbeat to node node2 (Attempt 12/3): Connection refused: no further information
+2024-12-02 15:21:16 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:19 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:19 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:19 [INFO] Received heartbeat from node node3. Total received: 375
+2024-12-02 15:21:21 [ERROR] Failed to send heartbeat to node node2 (Attempt 13/3): Connection refused: no further information
+2024-12-02 15:21:21 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:24 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:24 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:24 [INFO] Received heartbeat from node node3. Total received: 376
+2024-12-02 15:21:26 [ERROR] Failed to send heartbeat to node node2 (Attempt 14/3): Connection refused: no further information
+2024-12-02 15:21:26 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:29 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:29 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:29 [INFO] Received heartbeat from node node3. Total received: 377
+2024-12-02 15:21:31 [ERROR] Failed to send heartbeat to node node2 (Attempt 15/3): Connection refused: no further information
+2024-12-02 15:21:31 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:34 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:34 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:34 [INFO] Received heartbeat from node node3. Total received: 378
+2024-12-02 15:21:36 [ERROR] Failed to send heartbeat to node node2 (Attempt 16/3): Connection refused: no further information
+2024-12-02 15:21:36 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:39 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:39 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:39 [INFO] Received heartbeat from node node3. Total received: 379
+2024-12-02 15:21:41 [ERROR] Failed to send heartbeat to node node2 (Attempt 17/3): Connection refused: no further information
+2024-12-02 15:21:41 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:44 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:44 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:44 [INFO] Received heartbeat from node node3. Total received: 380
+2024-12-02 15:21:46 [ERROR] Failed to send heartbeat to node node2 (Attempt 18/3): Connection refused: no further information
+2024-12-02 15:21:46 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:49 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:49 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:49 [INFO] Received heartbeat from node node3. Total received: 381
+2024-12-02 15:21:51 [ERROR] Failed to send heartbeat to node node2 (Attempt 19/3): Connection refused: no further information
+2024-12-02 15:21:51 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:54 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:54 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:54 [INFO] Received heartbeat from node node3. Total received: 382
+2024-12-02 15:21:56 [ERROR] Failed to send heartbeat to node node2 (Attempt 20/3): Connection refused: no further information
+2024-12-02 15:21:56 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:21:59 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:21:59 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:21:59 [INFO] Received heartbeat from node node3. Total received: 383
+2024-12-02 15:22:01 [ERROR] Failed to send heartbeat to node node2 (Attempt 21/3): Connection refused: no further information
+2024-12-02 15:22:01 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:04 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:04 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:04 [INFO] Received heartbeat from node node3. Total received: 384
+2024-12-02 15:22:04 [INFO] Heartbeats Sent: 382
+2024-12-02 15:22:04 [INFO] Heartbeats Received: 384
+2024-12-02 15:22:04 [INFO] Nodes Failed: 2
+2024-12-02 15:22:06 [ERROR] Failed to send heartbeat to node node2 (Attempt 22/3): Connection refused: no further information
+2024-12-02 15:22:06 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:09 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:09 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:09 [INFO] Received heartbeat from node node3. Total received: 385
+2024-12-02 15:22:10 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:11 [INFO] Received heartbeat from node node2. Total received: 386
+2024-12-02 15:22:11 [INFO] Node node2 is now responsive again.
+2024-12-02 15:22:11 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:11 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:14 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:14 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:14 [INFO] Received heartbeat from node node3. Total received: 387
+2024-12-02 15:22:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:16 [INFO] Received heartbeat from node node2. Total received: 388
+2024-12-02 15:22:16 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:16 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:19 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:19 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:19 [INFO] Received heartbeat from node node3. Total received: 389
+2024-12-02 15:22:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:21 [INFO] Received heartbeat from node node2. Total received: 390
+2024-12-02 15:22:21 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:21 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:24 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:24 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:24 [INFO] Received heartbeat from node node3. Total received: 391
+2024-12-02 15:22:26 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:26 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:26 [INFO] Received heartbeat from node node2. Total received: 392
+2024-12-02 15:22:26 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:26 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:29 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:29 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:29 [INFO] Received heartbeat from node node3. Total received: 393
+2024-12-02 15:22:31 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:31 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:31 [INFO] Received heartbeat from node node2. Total received: 394
+2024-12-02 15:22:31 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:31 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:34 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:34 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:34 [INFO] Received heartbeat from node node3. Total received: 395
+2024-12-02 15:22:36 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:36 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:36 [INFO] Received heartbeat from node node2. Total received: 396
+2024-12-02 15:22:36 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:36 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:39 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:39 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:39 [INFO] Received heartbeat from node node3. Total received: 397
+2024-12-02 15:22:41 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:41 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:41 [INFO] Received heartbeat from node node2. Total received: 398
+2024-12-02 15:22:41 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:41 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:44 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:44 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:44 [INFO] Received heartbeat from node node3. Total received: 399
+2024-12-02 15:22:46 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:46 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:46 [INFO] Received heartbeat from node node2. Total received: 400
+2024-12-02 15:22:46 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:46 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:49 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:49 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:49 [INFO] Received heartbeat from node node3. Total received: 401
+2024-12-02 15:22:51 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:51 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:51 [INFO] Received heartbeat from node node2. Total received: 402
+2024-12-02 15:22:51 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:51 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:54 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:54 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:54 [INFO] Received heartbeat from node node3. Total received: 403
+2024-12-02 15:22:56 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:56 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:22:56 [INFO] Received heartbeat from node node2. Total received: 404
+2024-12-02 15:22:56 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:22:56 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:22:59 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:22:59 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:22:59 [INFO] Received heartbeat from node node3. Total received: 405
+2024-12-02 15:23:01 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:01 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:23:01 [INFO] Received heartbeat from node node2. Total received: 406
+2024-12-02 15:23:01 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:23:01 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:23:04 [INFO] Heartbeats Sent: 405
+2024-12-02 15:23:04 [INFO] Heartbeats Received: 406
+2024-12-02 15:23:04 [INFO] Nodes Failed: 2
+2024-12-02 15:23:04 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:04 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:23:04 [INFO] Received heartbeat from node node3. Total received: 407
+2024-12-02 15:23:06 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:06 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:23:06 [INFO] Received heartbeat from node node2. Total received: 408
+2024-12-02 15:23:06 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:23:06 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:23:09 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:09 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:23:09 [INFO] Received heartbeat from node node3. Total received: 409
+2024-12-02 15:23:11 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:11 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:23:11 [INFO] Received heartbeat from node node2. Total received: 410
+2024-12-02 15:23:11 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:23:11 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:23:14 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:14 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:23:14 [INFO] Received heartbeat from node node3. Total received: 411
+2024-12-02 15:23:16 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:16 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:23:16 [INFO] Received heartbeat from node node2. Total received: 412
+2024-12-02 15:23:16 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:23:16 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:23:19 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:19 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:23:19 [INFO] Received heartbeat from node node3. Total received: 413
+2024-12-02 15:23:21 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:21 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node2"}
+2024-12-02 15:23:21 [INFO] Received heartbeat from node node2. Total received: 414
+2024-12-02 15:23:21 [INFO] Sent heartbeat to node node2 on port 5002
+2024-12-02 15:23:21 [INFO] Sent heartbeat to node node3 on port 5003
+2024-12-02 15:23:24 [INFO] New node connection from /127.0.0.1
+2024-12-02 15:23:24 [INFO] Received message: {"action":"HEARTBEAT","data":null,"nodeId":"node3"}
+2024-12-02 15:23:24 [INFO] Received heartbeat from node node3. Total received: 415
+2024-12-02 15:23:25 [INFO] Shutting down server...
+2024-12-02 15:23:25 [INFO] Server shutdown complete.
+2024-12-02 15:23:25 [ERROR] Metrics thread interrupted.
+2024-12-02 18:45:43 [INFO] HeartBeatManager started.
+2024-12-02 18:45:43 [INFO] SocketHandler is listening on port 5001
+2024-12-02 18:45:43 [INFO] Server started for node: node1
+2024-12-02 18:45:43 [ERROR] Failed to send heartbeat to successor: node2
+2024-12-02 18:45:51 [INFO] New node connection from /127.0.0.1
