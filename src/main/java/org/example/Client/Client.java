@@ -13,7 +13,7 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicLong;
 
 // clasa client gestioneaza conexiunea mqtt, publicarea si abonarea la stiri,
-// precum si integrarea cu RingManager pentru topologia inelara (ring topology)
+// precum si integrarea cu RingManager pentru topologia inelara (Ring topology)
 public class Client implements MqttCallback {
 
     private final RingManager ringManager;
@@ -262,6 +262,7 @@ public class Client implements MqttCallback {
             }
         });
     }
+
     private void handleHeartbeat(String payload) {
         if (payload.startsWith("heartbeat_request:")) {
             String fromNode = payload.split(":")[1];
@@ -309,7 +310,6 @@ public class Client implements MqttCallback {
             }
         }
     }
-
 
     // gestioneaza mesajele de descoperire a nodurilor
     private void handleRingDiscovery(String payload) {
@@ -521,7 +521,7 @@ public class Client implements MqttCallback {
                 System.out.println("║ 4. Vizualizare lista stiri     ║");
                 System.out.println("║ 5. Vizualizare detalii stire   ║");
                 System.out.println("║ 6. Adauga stire                ║");
-                System.out.println("║ 7. Topicuri-uri abonate        ║");
+                System.out.println("║ 7. Topic-uri abonate           ║");
                 System.out.println("║ 8. Stergere stire              ║");
                 System.out.println("║ 99. Exit                       ║");
                 System.out.println("╚════════════════════════════════╝");
@@ -768,62 +768,56 @@ public class Client implements MqttCallback {
     }
 
     // thread heartbeat - trimite heartbeat si verifica timeout
+    public void startHeartbeatThread() {
+        Thread heartbeatThread = new Thread(() -> {
+            while (true) {
+                try {
+                    // Dacă e singurul nod din inel, nu face heartbeat
+                    if (getActiveNodes().size() == 1) {
+                        Thread.sleep(15000); // Așteaptă 15 secunde înainte de a verifica din nou
+                        continue;
+                    }
 
+                    // Trimite heartbeat request către succesor
+                    if (ringManager.getSuccessor() != null
+                            && !ringManager.getSuccessor().equals(getId())) {
+                        String msg = "heartbeat_request:" + this.id;
+                        publishOnTopic("ring_heartbeat", msg);
+                        writeToLogFile("Heartbeat request trimis catre succesor: " + ringManager.getSuccessor());
+                    }
 
-public void startHeartbeatThread() {
-    Thread heartbeatThread = new Thread(() -> {
-        while (true) {
-            try {
-                // Dacă e singurul nod din inel, nu face heartbeat
-                if (getActiveNodes().size() == 1) {
-                    Thread.sleep(15000); // Așteaptă 15 secunde înainte de a verifica din nou
-                    continue;
+                    long now = System.currentTimeMillis();
+
+                    // Verifică succesor
+                    long succDiff = now - lastHeartbeatReceived.get();
+                    if (succDiff > HEARTBEAT_TIMEOUT_MS
+                            && ringManager.getSuccessor() != null
+                            && !ringManager.getSuccessor().equals(getId())) {
+                        writeToLogFile("[RingManager] Timeout Heartbeat detectat. Succesorul "
+                                + ringManager.getSuccessor() + " este considerat cazut.");
+
+                        ringManager.handleSuccessorFailure();
+                    }
+
+                    // Verifică predecesor
+                    long predDiff = now - lastPredecessorHeartbeatReceived.get();
+                    if (predDiff > HEARTBEAT_TIMEOUT_MS
+                            && ringManager.getPredecessor() != null
+                            && !ringManager.getPredecessor().equals(getId())) {
+                        writeToLogFile("[RingManager] Timeout Heartbeat detectat. Predecesorul "
+                                + ringManager.getPredecessor() + " este considerat cazut.");
+                        ringManager.handlePredecessorFailure();
+                    }
+
+                    Thread.sleep(10000); // Așteaptă 10 secunde înainte de a trimite următorul heartbeat
+                } catch (Exception e) {
+                    e.printStackTrace();
                 }
-
-                // Trimite heartbeat request către succesor
-                if (ringManager.getSuccessor() != null
-                        && !ringManager.getSuccessor().equals(getId())) {
-                    String msg = "heartbeat_request:" + this.id;
-                    publishOnTopic("ring_heartbeat", msg);
-                    writeToLogFile("Heartbeat request trimis catre succesor: " + ringManager.getSuccessor());
-                }
-
-                long now = System.currentTimeMillis();
-
-                // Verifică succesor
-                long succDiff = now - lastHeartbeatReceived.get();
-                if (succDiff > HEARTBEAT_TIMEOUT_MS
-                        && ringManager.getSuccessor() != null
-                        && !ringManager.getSuccessor().equals(getId())) {
-                    writeToLogFile("[RingManager] Timeout Heartbeat detectat. Succesorul "
-                            + ringManager.getSuccessor() + " este considerat cazut.");
-                    // System.out.println("[RingManager] Timeout Heartbeat detectat. Succesorul "
-                    //         + ringManager.getSuccessor() + " este considerat cazut.");
-                    ringManager.handleSuccessorFailure();
-                }
-
-                // Verifică predecesor
-                long predDiff = now - lastPredecessorHeartbeatReceived.get();
-                if (predDiff > HEARTBEAT_TIMEOUT_MS
-                        && ringManager.getPredecessor() != null
-                        && !ringManager.getPredecessor().equals(getId())) {
-                    writeToLogFile("[RingManager] Timeout Heartbeat detectat. Predecesorul "
-                            + ringManager.getPredecessor() + " este considerat cazut.");
-                    // System.out.println("[RingManager] Timeout Heartbeat detectat. Predecesorul "
-                    //         + ringManager.getPredecessor() + " este considerat cazut.");
-                    ringManager.handlePredecessorFailure();
-                }
-
-                Thread.sleep(10000); // Așteaptă 10 secunde înainte de a trimite următorul heartbeat
-            } catch (Exception e) {
-                e.printStackTrace();
             }
-        }
-    });
-    heartbeatThread.setDaemon(true);
-    heartbeatThread.start();
-}
-
+        });
+        heartbeatThread.setDaemon(true);
+        heartbeatThread.start();
+    }
 
     // obtine lista de topicuri la care este abonat
     public List<String> getSubscribedTopics() {

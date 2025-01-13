@@ -189,13 +189,6 @@ public class RingManager {
         handlingPredecessorFailure = false;
     }
 
-
-    // reseteaza contorul de esecuri pentru un nod
-//    public void resetFailureCount(String nodeId) {
-//        heartbeatFailures.put(nodeId, 0);
-//        predecessorFailures.put(nodeId, 0);
-//    }
-
     public void resetFailureCount(String nodeId) {
         heartbeatFailures.put(nodeId, 0);
         predecessorFailures.put(nodeId, 0);
@@ -204,10 +197,6 @@ public class RingManager {
 
     // elimina un nod din inel si actualizeaza topologia
     public void removeNode(String nodeId) {
-//        client.removeActiveNode(nodeId);
-//        client.writeToLogFile("Nodul " + nodeId + " a fost eliminat din inel.");
-//        System.out.println("[" + client.getId() + "] Nodul " + nodeId + " a fost eliminat din inel.");
-//        updateRing();
         client.removeActiveNode(nodeId);
         heartbeatFailures.remove(nodeId);
         predecessorFailures.remove(nodeId);
@@ -218,45 +207,6 @@ public class RingManager {
     }
 
     // actualizeaza inelul in functie de nodurile active
-//    public synchronized void updateRing() {
-//        List<String> sortedNodes = new ArrayList<>(client.getActiveNodes());
-//        Collections.sort(sortedNodes, Comparator.comparingInt(nodeId -> client.getNodeIndex(nodeId)));
-//
-//        int index = sortedNodes.indexOf(client.getId());
-//        if (index == -1) {
-//            // nodul nu este in lista activa (ar trebui sa fie, dar verificam)
-//            return;
-//        }
-//
-//        String oldPredecessor = this.predecessorId;
-//        String oldSuccessor = this.successorId;
-//
-//        String newPredecessor = sortedNodes.get((index - 1 + sortedNodes.size()) % sortedNodes.size());
-//        String newSuccessor = sortedNodes.get((index + 1) % sortedNodes.size());
-//
-//        if (!newPredecessor.equals(this.predecessorId) || !newSuccessor.equals(this.successorId)) {
-//            setPredecessor(newPredecessor);
-//            setSuccessor(newSuccessor);
-//
-//            // reset la timp si contor pentru NOUL succesor
-//            if (!newSuccessor.equals(oldSuccessor)) {
-//                client.writeToLogFile("Succesor schimbat din " + oldSuccessor + " in " + newSuccessor);
-//                resetFailureCount(newSuccessor);
-//                client.getLastHeartbeatReceived().set(System.currentTimeMillis());
-//            }
-//
-//            // reset la timp si contor pentru NOUL predecesor
-//            if (!newPredecessor.equals(oldPredecessor)) {
-//                client.writeToLogFile("Predecesor schimbat din " + oldPredecessor + " in " + newPredecessor);
-//                resetFailureCount(newPredecessor);
-//                client.getLastPredecessorHeartbeatReceived().set(System.currentTimeMillis());
-//            }
-//
-//            client.writeToLogFile("Succesor nou: " + newSuccessor + ", Predecesor nou: " + newPredecessor);
-//            System.out.println("[" + client.getId() + "] Succesor nou: " + newSuccessor + ", Predecesor nou: " + newPredecessor);
-//        }
-//    }
-
     public synchronized void updateRing() {
         List<String> sortedNodes = new ArrayList<>(client.getActiveNodes());
         Collections.sort(sortedNodes, Comparator.comparingInt(nodeId -> client.getNodeIndex(nodeId)));
