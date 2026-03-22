@@ -58,6 +58,8 @@ The application reads node IDs from `id.txt` based on startup index:
 - index `2` -> second line (for example `N2`)
 - etc.
 
+`nodeIndex` is **1-based** (not 0-based), matching the current implementation.
+
 Make sure `id.txt` contains enough node IDs for the number of clients you start.
 
 ### 2) NewsAPI key (optional)
@@ -119,6 +121,8 @@ After startup, each node exposes a console menu with options such as:
 - exit
 
 Default topics include: `technology`, `crypto`, `ai`, `blockchain`, `health`, `vremea`, `sport`, `filme`, and `stergere`.
+
+Note: topic names are intentionally mixed-language in the current codebase.
 
 ## Runtime Behavior Notes
 
