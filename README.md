@@ -125,8 +125,9 @@ Default topics include: `technology`, `crypto`, `ai`, `blockchain`, `health`, `v
 - Nodes announce themselves on `ring_discovery`.
 - Heartbeats are exchanged on `ring_heartbeat`.
 - News is replicated to the successor on `replicate/<nodeId>`.
-- News is persisted to `src/main/resources/persisted_news.txt` (current implementation path, relative to the process working directory).
-- Logs are appended to `src/main/java/org/example/logs.txt` (current implementation path, relative to the process working directory).
+- News is persisted to `./src/main/resources/persisted_news.txt`.
+- Logs are appended to `./src/main/java/org/example/logs.txt`.
+- These paths are hardcoded in the current implementation, so run the JAR from the project root to keep persistence and logging working as expected.
 
 ## Troubleshooting
 
