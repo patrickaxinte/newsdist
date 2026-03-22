@@ -64,7 +64,7 @@ Make sure `id.txt` contains enough node IDs for the number of clients you start.
 
 Add your key to:
 
-`/home/runner/work/newsdist/newsdist/src/main/resources/application.properties`
+`src/main/resources/application.properties`
 
 Example:
 
@@ -79,7 +79,6 @@ If the key is missing, the app still runs; only NewsAPI ingestion is skipped.
 From the repository root:
 
 ```bash
-cd /home/runner/work/newsdist/newsdist
 mvn clean package
 ```
 
